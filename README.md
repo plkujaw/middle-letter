@@ -8,8 +8,8 @@
 
 #### Acceptance Criteria
 
-```javascript
-getMiddle("test"); 
+```
+getMiddle("test");
 => "es"
 getMiddle("testing");
 => "t"
